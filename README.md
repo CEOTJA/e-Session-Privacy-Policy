@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - Laoag City E-Session App</title>
 </head>
 <body>
     <h1>Privacy Policy for Laoag City E-Session App</h1>
