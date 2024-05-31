@@ -2,9 +2,10 @@
 <head>
     <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - Laoag City E-Session App</title>
+
 </head>
 <body>
+        <h1>Privacy Policy - Laoag City E-Session App</h1>
     <p>Effective Date: May, 05 2024</p>
     <h2>1. Introduction</h2>
     <p>Welcome to the Laoag City E-Session App. This app is provided by the Municipality of Laoag City, Ilocos Norte, Philippines. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and share your information when you use our app.</p>
